@@ -75,6 +75,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ikhsanaryaaa/ikhsanaryaaa/snake-output/snake.svg" alt="Snake animation" />
-
-###
