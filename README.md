@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ikhsan Arya Mahendra and I'm a Junior Developer from Jakarta</h2>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ikhsanaryaaa/ikhsanaryaaa/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ikhsanaryaaa/ikhsanaryaaa/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -76,10 +70,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ikhsanaryaaa.ikhsanaryaaa&right_color=deepskyblue"  />
 </div>
 
 ###
