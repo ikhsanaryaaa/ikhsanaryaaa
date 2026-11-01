@@ -29,7 +29,6 @@ I value clear, maintainable code and keep learning by building and experimenting
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" alt="Astro" title="Astro" width="38" height="38" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" title="React" width="38" height="38" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React Native" title="React Native" width="38" height="38" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg" alt="Kotlin" title="Kotlin" width="38" height="38" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="Vite" title="Vite" width="38" height="38" />
 </p>
